@@ -1,3 +1,3 @@
 git add .
-git commit -m "update2"
+git commit -m "updates"
 git push
